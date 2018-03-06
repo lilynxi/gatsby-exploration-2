@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
+  pathPrefix: '/gatsby-exploration-2', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
   siteTitle: 'Emma', // Navigation and Site Title
   siteTitleAlt: 'Emma - Gatsby Starter Portfolio', // Alternative Site title for SEO
   siteUrl: 'https://portfolio-emma.netlify.com/', // Domain of your site. No trailing slash!
