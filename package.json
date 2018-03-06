@@ -49,9 +49,9 @@
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
-    "dev": "gatsby develop -o",
+    "dev": "rm -rf .cache/* && gatsby develop -o",
     "postinstall": "node ./bin/hello.js",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "rm -rf .cache/* && gatsby build --prefix-paths && gh-pages -d public"
   },
   "devDependencies": {
     "autoprefixer": "^8.0.0",
