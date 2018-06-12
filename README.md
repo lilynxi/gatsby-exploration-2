@@ -161,3 +161,4 @@ The plugin chooses the *vibrant* color of the image and applies it as the ``back
 ## About Me
 
 Thanks for using my *gatsby-starter*. I hope you like it and create something awesome! To see some of my work you can visit my [website](https://www.lekoarts.de) or support me on [Patreon](https://www.patreon.com/lekoarts) to get some neat rewards (4K images, project files, tutorial insights).
+
